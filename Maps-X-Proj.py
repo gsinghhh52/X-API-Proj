@@ -17,7 +17,9 @@ lng = 0
 urlIndex = 0
 
 
-GOOGLEAPIKEY = "AIzaSyCSKoYf7PqR5gfAe8I_hLGTmVciV616Ij0"
+# Replace with your own Google Maps Static API key
+GOOGLEAPIKEY = "YOUR_API_KEY_HERE"
+
 
 class Globals:
     rootWindow = None
